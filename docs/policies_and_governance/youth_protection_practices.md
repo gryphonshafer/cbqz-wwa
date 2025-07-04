@@ -1,16 +1,14 @@
 # Youth Protection Practices
 
-_(Note that Western Washington Bible Quizzing, or WWA, is the successor organization to Pacific Northwest Bible Quizzing, or PNW.)_
-
-PNW Quizzing (also known as "the region") strives to create and maintain a safe environment for all youth who participate. To the best of our ability, PNW Quizzing leadership and other volunteers must safeguard the youth they come into contact with and protect them from abuse.
+Quizzing strives to create and maintain a safe environment for all youth who participate. To the best of our ability, leadership and other volunteers must safeguard the youth they come into contact with and protect them from abuse.
 
 ## No 1-on-1 Interactions Involving Youth
 
-PNW Quizzing prohibits any private 1-on-1 interactions between adult-to-youth or youth-to-youth while at region-sponsored quiz meets or other region-sponsored events or while enroute to or from such where the travel is conducted by the region (as in the case of Great West or Internationals).
+There is a prohibition on any private 1-on-1 interactions between adult-to-youth or youth-to-youth while at region-sponsored quiz meets or other region-sponsored events or while enroute to or from such where the travel is conducted by the region.
 
-## Travel Conducted by PNW Quizzing
+## Travel Conducted by Quizzing
 
-Travel conducted by the region (as in the case of Great West or Internationals) is required to:
+Travel conducted by the region is required to:
 
 - Obtain written permission from all parents or legal guardians of all youth engaged in said travel
 - Provide all parents and legal guardians details about the travel including locations, accommodations, itineraries, and leadership contact information
