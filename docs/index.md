@@ -5,9 +5,7 @@
 
 Welcome to the Western Washington region of Christian Bible Quizzing.
 
-Western Washington (WWA) is a licensed region of Christian Bible Quizzing.
-_(WWA is the successor organization to Pacific Northwest Bible Quizzing.)_
-The ministry provides youth and adults with an opportunity to be involved in the systematic study and application of God's Word. Through this and the competition at regular quiz meets, the program builds character, instills self-discipline, and encourages prayer and unity. It equips participants with the capacity to serve in other areas of ministry, and it prepares them well for their future adult lives.
+Western Washington (WWA) is a [provisional region](*/governance/regions.md) of Christian Bible Quizzing. _(WWA is the successor organization to Pacific Northwest Bible Quizzing, an [incorporated region](*/governance/regions.md) of CBQ.)_ The ministry provides youth and adults with an opportunity to be involved in the systematic study and application of God's Word. Through this and the competition at regular quiz meets, the program builds character, instills self-discipline, and encourages prayer and unity. It equips participants with the capacity to serve in other areas of ministry, and it prepares them well for their future adult lives.
 
 To find the next quiz meet, please consult our [Season Schedule](/meet/schedule).
 
