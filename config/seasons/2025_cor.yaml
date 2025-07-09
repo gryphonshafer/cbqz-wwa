@@ -13,7 +13,7 @@ seasons:
             name: Lighthouse Christian Center _(Tentative/Unconfirmed)_
             url: https://lighthousehome.org
             address: 3409 23rd St SW, Puyallup WA 98373
-        notes: No registration required.
+        notes: No registration required
 
       - name: Meet 1
         start: Oct 11 2025 8 AM PDT
@@ -69,5 +69,5 @@ seasons:
             housing: true
             lunch: true
         notes: |
-            - Arrive Friday for dinner followed by Quizzing that evening.
-            - Quizzing continues Saturday and concludes with finals and awards prior to dinner.
+            - Arrive Friday for dinner followed by Quizzing that evening
+            - Quizzing continues Saturday and concludes with finals and awards prior to dinner
