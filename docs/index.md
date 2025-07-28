@@ -1,5 +1,5 @@
 <!-- docs:hide_top_photo -->
-<img src="/washington_relief_location_map.jpg" class="page_photo">
+<img src="/washington_relief_location_map.jpg" class="page_photo border">
 
 # Western Washington Bible Quizzing
 
