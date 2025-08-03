@@ -60,8 +60,8 @@ seasons:
             lunch: true
 
       - name: Championships
-        start: May 1 2026 8 AM PDT
-        days: 3
+        start: May 1 2026 5 PM PDT
+        days: 2
         host:
             name: Double K Retreat Center
             url: https://doublek.org
