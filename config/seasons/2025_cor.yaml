@@ -16,14 +16,7 @@ seasons:
         notes: No registration required
 
       - name: Meet 1
-        start: Oct 11 2025 8 AM PDT
-        new_material: 1 Cor 1-7
-        host:
-            name: Juniper Community Church
-            url: https://junipercc.com
-            address: 976 S Adams Dr, Madras OR 97741
-            housing: true
-            lunch: true
+        region: OR
 
       - name: Meet 2
         start: Nov 22 2025 8 AM PST
