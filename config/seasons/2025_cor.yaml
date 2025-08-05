@@ -17,7 +17,7 @@ seasons:
 
       - name: Meet 1
         start: Oct 11 2025 8 AM PDT
-        new_material: 1 Cor 1-6
+        new_material: 1 Cor 1-7
         host:
             name: Juniper Community Church
             url: https://junipercc.com
@@ -27,7 +27,7 @@ seasons:
 
       - name: Meet 2
         start: Nov 22 2025 8 AM PST
-        new_material: 1 Cor 7-12
+        new_material: 1 Cor 8-12
         host:
             name: Elk Plain Community Church
             url: http://elkplain.org
@@ -37,11 +37,11 @@ seasons:
 
       - name: Meet 3
         start: Jan 3 2026 8 AM PST
-        new_material: 1 Cor 13-15
+        new_material: 1 Cor 13-16
 
       - name: Meet 4
         start: Feb 7 2026 8 AM PST
-        new_material: 1 Cor 16; 2 Cor 1-7
+        new_material: 2 Cor 1-5
         host:
             name: Burley Bible Church
             url: https://bbcol.org
@@ -51,7 +51,7 @@ seasons:
 
       - name: Meet 5
         start: Mar 21 2026 8 AM PDT
-        new_material: 2 Cor 8-13
+        new_material: 2 Cor 6-13
         host:
             name: Highlands Community Church
             url: https://highlandscc.org
