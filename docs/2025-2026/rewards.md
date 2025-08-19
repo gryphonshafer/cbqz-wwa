@@ -16,7 +16,3 @@ We'll recognize and reward quizzers at the start of each meet who surpass cumula
 |       144 | Assorted bag of individually wrapped candy                                   |
 |       245 | T-Shirt (CBQ-branded)                                                        |
 |       490 | Hoodie (CBQ-branded)                                                         |
-
-## Team Timely Registration Rewards
-
-Each team of every team organization whose registration data was submitted prior to the registration deadline and that contained complete quizzer cumulative memorization counts will be entered into a raffle. The winner, drawn at the conclusion of the meet, will receive badges indicating their win and a box of Girl Scout cookies.

@@ -23,6 +23,9 @@ The members, voting and non-voting, of the General Assembly are defined in the
 
 ## Asset and Governance Board Meeting Minutes
 
+- [Wednesday, July 16, 2025](_meeting_minutes/2025-07-16.md) via Zoom
+- [Wednesday, June 18, 2025](_meeting_minutes/2025-06-18.md) via Zoom
+- [Thursday, May 29, 2025](_meeting_minutes/2025-05-29.md) via Zoom
 - [Friday, March 21, 2025](_meeting_minutes/2025-03-21.md) via Zoom
 - [Wednesday, September 25, 2024](_meeting_minutes/2024-09-25.md) via Zoom
 - [Tuesday, April 13, 2021](_meeting_minutes/2021-04-13.md) via Zoom

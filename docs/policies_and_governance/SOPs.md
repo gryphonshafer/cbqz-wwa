@@ -1,6 +1,35 @@
-# Season Standard Operating Procedures
+# Standard Operating Procedures
 
-The following are season standard operating procedures for Western Washington Bible Quizzing.
+The following are standard operating procedures (SOPs) for Western Washington (WWA).
+_(WWA is the successor organization to Pacific Northwest Bible Quizzing, or PNW.)_
+
+## Meet Registration
+
+- All team organizations that ensure complete and accurate meet registration in the online registration system prior to the registration deadline will be announced at the welcome announcements
+- From a population of each quizzer from each such organization, a quizzer will be selected at random
+- As the first thing at the awards ceremony, the raffle will be drawn and the quizzers from that time will receive a button stating: “My Coach Registered on Time”
+- Must be present to win except for teams that have ≥5 hours of drive
+
+Only the following will be accepted as reasons for an excused absence as it pertains to fees and meet roster changes:
+
+- Sickness
+- Unforeseeable family emergency
+
+## Fees
+
+The following are the fees associated with quiz meet registration:
+
+- There is a fee of $5 per quizzer per meet for every regular regional meet
+- The cost of Championships is based on direct, no-markup costs to host the meet on a per-person basis
+
+For clarification:
+
+- There are no team fees
+- There are no fees for Scramble/Welcome meets/events
+
+In addition, all fees are waived for team organizations in their first year of CBQ participation.
+
+The meet registration data submitted prior to the registration deadline will be used to calculate fees. Should there be a quizzer's absence that's excused after the registration deadline, the fees associated with that quizzer for that meet will be deducted. Any added quizzers following the registration deadline will incur the standard fees.
 
 ## Bracket Types
 
@@ -9,6 +38,10 @@ Quiz meets will be comprised of preliminary score sum bracket consisting of all 
 Following the score sum bracket, there will be 1 or more "top-9" positional brackets and an "auxiliary" positional bracket. The teams sorted by total team score from the score sum bracket will fill the 1 or more "top-9" positional brackets, and the remaining teams will be placed in the "auxiliary" positional bracket.
 
 There will be at least 1 but possibly multiple finals/championships quizzes of the top 3 teams from the "top-9" positional brackets.
+
+## Meet Quiz Starts
+
+It is the responsibility of quizzers and their coaches to arrive in quiz rooms prior to the start of their assigned quizzes. Should any quizzers or coaches be actively quizzing in another quiz room or in direct transit to the arrival quiz room from a previous quiz in a different quiz room, the quiz start will be delayed until their prompt arrival. For all other circumstances, the quiz in question will be started immediately.
 
 ## Individual Averages
 
@@ -56,3 +89,11 @@ For teams missing a meet due to weather:
 - If missing Meet 3, the team will receive Last Place for 15% of that meet and 10% weight applied to Meet 4
 - If missing Meet 4, the team will receive Last Place for 25% of that meet and 10% weight applied to Meet 5
 - If missing Meets 1, 2, 5, or Championships, the team will receive Last Place for that meet
+
+## Additional Documents
+
+In addition to this SOP, there are sub-SOP documents that should be considered included as part the overall SOPs. These documents are:
+
+- [Hosting a Meet](hosting.md)
+- [Quizzer Behavioral Expectations](behavioral_expectations.md)
+- [Youth Protection Practices](youth_protection_practices.md)
