@@ -38,6 +38,7 @@ seasons:
 
       - name: Meet 4
         start: Feb 7 2026 8 AM PST
+        deadline: 7
         new_material: 2 Cor 1-5
         host:
             name: Burley Bible Church
