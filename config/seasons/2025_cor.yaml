@@ -51,21 +51,24 @@ seasons:
         start: Mar 21 2026 8 AM PDT
         new_material: 2 Cor 6-13
         host:
-            name: Highlands Community Church
-            url: https://highlandscc.org
-            address: 3031 NE Tenth St, Renton WA 98056
+            name: Christ the Rock Community Church
+            url: https://crcc.com
+            address: 4100 SW Old Clifton Rd, Port Orchard WA 98367
             housing: true
             lunch: true
-
+        notes: |
+            - Overnight housing provided by [Highlands Community Church](https://highlandscc.org)
+            - Lunch TBD but will likely be somewhere between $5 and $8 per person
       - name: Championships
         start: May 1 2026 5 PM PDT
         days: 2
         host:
-            name: Double K Retreat Center
-            url: https://doublek.org
-            address: 620 Tall Timber Trail, Easton WA 98925
+            name: TBD
+            # name: Double K Retreat Center
+            # url: https://doublek.org
+            # address: 620 Tall Timber Trail, Easton WA 98925
             housing: true
             lunch: true
-        notes: |
-            - Arrive Friday for dinner followed by Quizzing that evening
-            - Quizzing continues Saturday and concludes with finals and awards prior to dinner
+        # notes: |
+        #     - Arrive Friday for dinner followed by Quizzing that evening
+        #     - Quizzing continues Saturday and concludes with finals and awards prior to dinner
