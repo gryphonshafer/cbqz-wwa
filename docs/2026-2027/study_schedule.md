@@ -1,6 +1,7 @@
 <!-- docs:hide_top_photo -->
 <script src="/js/util/cookies.js"></script>
 <script src="/js/study_schedule.js"></script>
+<script src="/js/util/memo.js" async></script>
 
 # 2026-2027 Study Schedule
 
