@@ -9,6 +9,8 @@ The following is a suggested study schedule tool for the 2026-2027 season.
 The full material for the season is:
 **John 1-4; 5:1-3, 5-47; 6; 7:1-52; 8:12-59; 9-21**.
 
+<div>If you'd like a demonstration of how to use this page with <a href="https://quizsage.org">QuizSage</a><span class="material-symbols-outlined size middle">arrow_outward</span>, please view the <a href="https://youtu.be/mwEzIlluN-A">Instructional Video</a><span class="material-symbols-outlined size middle">arrow_outward</span>.</div>
+
 ## Study Schedule
 
 ### Meet Dates
@@ -34,7 +36,7 @@ The full material for the season is:
 | John 4:27-54  |     28 |
 | John 5        |     46 |
 | John 6:1-24   |     24 |
-| John 6        |     47 |
+| John 6:25-71  |     47 |
 | John 7:1-24   |     24 |
 | John 7:25-52  |     28 |
 | John 8        |     48 |
