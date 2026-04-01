@@ -22,7 +22,7 @@ The full material for the season is:
 | Dec  5, 2026 | Meet 2    | John 1-6 (1) John 7-9 (1)    |
 | Jan 16, 2027 | Meet 3    | John 1-9 (1) John 10-12 (1)  |
 | Feb 27, 2027 | Meet 4    | John 1-12 (1) John 13-17 (1) |
-| Apr 10, 2027 | Meet 5    | John 1-17 (1) John 18-21 (1) |
+| Mar 27, 2027 | Meet 5    | John 1-17 (1) John 18-21 (1) |
 
 ### Material by Chapter
 
