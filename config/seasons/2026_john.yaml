@@ -1,8 +1,8 @@
 ---
 seasons:
   - name: John
-    start: Aug 1, 2026
-    days: 365
+    start: May 4, 2026
+    days: 454
     meets:
 
       - name: Scramble

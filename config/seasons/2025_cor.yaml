@@ -2,7 +2,7 @@
 seasons:
   - name: Corinthians
     start: Aug 1, 2025
-    days: 365
+    days: 267
     meets:
 
       - name: Scramble
