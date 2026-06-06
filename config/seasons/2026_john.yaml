@@ -22,6 +22,8 @@ seasons:
             name: Juniper Community Church
             url: https://junipercc.com
             address: 976 S Adams Dr, Madras OR 97741
+            housing: true
+            lunch: true
             
 
       - name: Meet 2
@@ -39,6 +41,7 @@ seasons:
             name: Heart Church
             url: https://heartchurchnw.org
             address: 655 Sixth Ave, Fox Island WA 98333
+            lunch: true
 
       - name: Meet 5
         start: Mar 27 2027 8 AM PDT
