@@ -33,6 +33,11 @@ seasons:
       - name: Meet 3
         start: Jan 16 2027 8 AM PST
         new_material: John 10-12
+        host:
+            name: Burley Bible Church
+            url: bbcol.org
+            address: 14687 Olympic Dr SE Port Orchard, WA 98367
+            lunch: true
 
       - name: Meet 4
         start: Feb 27 2027 8 AM PST
