@@ -18,13 +18,12 @@ seasons:
       - name: Meet 1
         start: Oct 24 2026 8 AM PDT
         new_material: John 1-6
-        host: 
+        host:
             name: Juniper Community Church
             url: https://junipercc.com
             address: 976 S Adams Dr, Madras OR 97741
             housing: true
             lunch: true
-            
 
       - name: Meet 2
         start: Dec 5 2026 8 AM PST
@@ -35,14 +34,14 @@ seasons:
         new_material: John 10-12
         host:
             name: Burley Bible Church
-            url: bbcol.org
+            url: https://bbcol.org
             address: 14687 Olympic Dr SE Port Orchard, WA 98367
             lunch: true
 
       - name: Meet 4
         start: Feb 27 2027 8 AM PST
         new_material: John 13-17
-        host:  
+        host:
             name: Heart Church
             url: https://heartchurchnw.org
             address: 655 Sixth Ave, Fox Island WA 98333
