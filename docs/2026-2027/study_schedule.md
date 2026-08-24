@@ -116,7 +116,7 @@ The full material for the season is:
 | John 20:9-20                    |     12 |
 | John 20:21-31                   |     11 |
 
-### Club 681 by Even Routine
+### Club 680 by Even Routine
 
 | Material                | Verses |
 | ----------------------- | -----: |
