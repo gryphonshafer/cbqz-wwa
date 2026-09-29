@@ -1,8 +1,8 @@
 ---
 seasons:
   - name: John
-    start: May 4, 2026
-    days: 454
+    start: Aug 1, 2026
+    days: 365
     meets:
 
       - name: Scramble
@@ -16,14 +16,7 @@ seasons:
         notes: No registration required
 
       - name: Meet 1
-        start: Oct 24 2026 8 AM PDT
-        new_material: John 1-6
-        host:
-            name: Juniper Community Church
-            url: https://junipercc.com
-            address: 976 S Adams Dr, Madras OR 97741
-            housing: true
-            lunch: true
+        region: OR
 
       - name: Meet 2
         start: Dec 5 2026 8 AM PST
@@ -52,9 +45,14 @@ seasons:
         new_material: John 18-21
 
       - name: Championships
-        start: Apr 30 2027 5 PM PDT
-        days: 2
+        region: INW
 
       - name: International Open Championships
         start: May 21 2027 5 PM PDT
         days: 3
+        host:
+            name: Black Lake Bible Camp
+            url: https://blbcolympia.com
+            address: 6521 Fairview Rd SW, Olympia WA 98512
+            lunch: true
+            housing: true
