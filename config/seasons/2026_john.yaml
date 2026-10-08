@@ -47,7 +47,7 @@ seasons:
       - name: Championships
         region: INW
 
-      - name: International Open Championships
+      - name: International Open Championships'
         start: May 21 2027 5 PM PDT
         days: 3
         host:
@@ -56,3 +56,4 @@ seasons:
             address: 6521 Fairview Rd SW, Olympia WA 98512
             lunch: true
             housing: true
+        notes: '[Full IOC 2027 Information](https://cbqz.org/ioc)'
